@@ -11,6 +11,6 @@ Package- *slack*
           - Module 1 – slackchannel.py
             This module has two functions that connects and creates a new channel.
           - Module 2 – slackmessage.py
-            This module has two classes which uses inheritance. The inherited class establishes a connection from the super class and has                two functions that sends message and schedules a message at a particular time to the created channel.
+            This module has two classes which uses inheritance. The inherited class establishes a connection from the super class and has two functions that sends message and schedules a message at a particular time to the created channel.
 
 
